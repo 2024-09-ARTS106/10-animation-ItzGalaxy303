@@ -5,19 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/MainMenu.unity
     guid: 87fcb1525a2eea8468ec214fdf24fca5
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/01-Professor.unity
     guid: 3af9fb8347a68304ba4288155b58468b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/02-BounceBall.unity
     guid: 188dd8f94a08da24e9f8a5b42b966bb0
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/03-Mixamo.unity
     guid: f7859049ac343f7408a05cb6df35b41a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/04-Timeline.unity
     guid: b491447bebfb8384a9b19feaa33d6739
+  - enabled: 1
+    path: Assets/2D animation.unity
+    guid: 2ffbdcab38c08a04fb524b26dc083a95
   m_configObjects: {}
